@@ -1,0 +1,1 @@
+document.getElementById('nama').innerHTML="Nama saya belajar innerHTML";
